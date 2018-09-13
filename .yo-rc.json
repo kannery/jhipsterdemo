@@ -1,0 +1,33 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.doodil.proforma"
+    },
+    "jhipsterVersion": "5.3.1",
+    "applicationType": "monolith",
+    "baseName": "doodil",
+    "packageName": "com.doodil.proforma",
+    "packageFolder": "com/doodil/proforma",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MTVhNTgxMjA5YzMyYzBmZTIwYzExMTEzYWRhNTJlOWVhN2I1MmEyY2E4ODk3ZWVkYzE2NzRmMjczZGQxNGQwZDk0MmIxZjQ3MDc3MmRhMzllZjYxZjk2YTFhYjQzMjk1NTM3Mjk2ZTJiOWUyZTg2ZWM1M2U3M2FjYjI2ZDgwZTI=",
+    "clientFramework": "angularX",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "gatling"
+    ],
+    "jhiPrefix": "jhi",
+    "enableTranslation": false
+  }
+}
